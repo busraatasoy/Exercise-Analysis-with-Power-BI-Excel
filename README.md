@@ -23,7 +23,14 @@ The purpose of this project is to **analyze one month of running and walking dat
 1. Open the **Exercise Data.xlsx** file to review the raw data.  
 2. Open **Exercise Analysis.pbix** in Power BI to explore and customize the reports.  
 3. Check the output images for visualized insights.  
-4. If you want to modify data transformations, go to **Power Query Editor** in Power BI.  
+4. If you want to modify data transformations, go to **Power Query Editor** in Power BI.
+
+
+## 📖 **Read More**  
+For a detailed explanation of this project, check out my Medium article:  
+
+👉 [Exercise Analysis with Power BI & Excel📈](https://medium.com/learning-data/exercise-analysis-with-power-bi-excel-fb4d5030354c)  
+
 
 ## 📢 **Feedback**
 Feel free to contribute by opening a **Pull Request** or submitting an **Issue** for feedback.  
